@@ -40,6 +40,7 @@ void correct(int n){
             case 20:
                 k=20;
         }
+        system ("cls");
 }
 
 void rw(){
@@ -228,6 +229,7 @@ int main()
                 else if(cn1==0&&cn2==0){
                     return 0;
                 }
+
                 break;
             }
             else{
